@@ -1,31 +1,28 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using demoweb.Models;
 
 namespace demoweb.Controllers;
 
-public class HomeController : Controller
+public class MenulistController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger<MenulistController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public MenulistController(ILogger<MenulistController> logger)
     {
         _logger = logger;
     }
 
-    public IActionResult Aboutus()
+    public IActionResult Index()
     {
         return View();
     }
 
-    public IActionResult Contactus()
+    public IActionResult Privacy()
     {
         return View();
     }
-    public IActionResult Login()
-    {
-        return View();
-    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

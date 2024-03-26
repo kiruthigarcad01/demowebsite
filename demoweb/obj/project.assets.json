@@ -932,11 +932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demoweb\\demoweb.csproj",
+      "projectUniqueName": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\demoweb.csproj",
       "projectName": "demoweb",
-      "projectPath": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demoweb\\demoweb.csproj",
+      "projectPath": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\demoweb.csproj",
       "packagesPath": "C:\\Users\\KIRUTHIGACAD01\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demoweb\\obj\\",
+      "outputPath": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KIRUTHIGACAD01\\AppData\\Roaming\\NuGet\\NuGet.Config"
