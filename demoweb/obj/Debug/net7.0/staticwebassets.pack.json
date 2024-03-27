@@ -5,176 +5,64 @@
       "PackagePath": "staticwebassets\\demoweb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontello.eot",
+      "PackagePath": "staticwebassets\\Fonts\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontello.svg",
+      "PackagePath": "staticwebassets\\Fonts\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontello.ttf",
+      "PackagePath": "staticwebassets\\Fonts\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Fonts\\fontello.woff",
+      "PackagePath": "staticwebassets\\Fonts\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Images\\b2.jpg",
+      "PackagePath": "staticwebassets\\Images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\style-starter.css",
-      "PackagePath": "staticwebassets\\css\\style-starter.css"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\styles.css",
-      "PackagePath": "staticwebassets\\css\\styles.css"
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\fonts\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\about1.jpg",
-      "PackagePath": "staticwebassets\\images\\about1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\about2.jpg",
-      "PackagePath": "staticwebassets\\images\\about2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\about3.jpg",
-      "PackagePath": "staticwebassets\\images\\about3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\about4.jpg",
-      "PackagePath": "staticwebassets\\images\\about4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\about5.jpg",
-      "PackagePath": "staticwebassets\\images\\about5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\b2.jpg",
-      "PackagePath": "staticwebassets\\images\\b2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\ban2.jpg",
-      "PackagePath": "staticwebassets\\images\\ban2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\ban4.jpg",
-      "PackagePath": "staticwebassets\\images\\ban4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\banner1.jpg",
-      "PackagePath": "staticwebassets\\images\\banner1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\g1.jpg",
-      "PackagePath": "staticwebassets\\images\\g1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\g2.jpg",
-      "PackagePath": "staticwebassets\\images\\g2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\g3.jpg",
-      "PackagePath": "staticwebassets\\images\\g3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\g4.jpg",
-      "PackagePath": "staticwebassets\\images\\g4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\g5.jpg",
-      "PackagePath": "staticwebassets\\images\\g5.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\g6.jpg",
-      "PackagePath": "staticwebassets\\images\\g6.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\image1.png",
-      "PackagePath": "staticwebassets\\images\\image1.png"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\image2.jpg",
-      "PackagePath": "staticwebassets\\images\\image2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\image3.jpg",
-      "PackagePath": "staticwebassets\\images\\image3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\inner-banner.jpg",
-      "PackagePath": "staticwebassets\\images\\inner-banner.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\team1.jpg",
-      "PackagePath": "staticwebassets\\images\\team1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\team2.jpg",
-      "PackagePath": "staticwebassets\\images\\team2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\team3.jpg",
-      "PackagePath": "staticwebassets\\images\\team3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\team4.jpg",
-      "PackagePath": "staticwebassets\\images\\team4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\testi1.jpg",
-      "PackagePath": "staticwebassets\\images\\testi1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\testi2.jpg",
-      "PackagePath": "staticwebassets\\images\\testi2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\images\\testi3.jpg",
-      "PackagePath": "staticwebassets\\images\\testi3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\counter.js",
-      "PackagePath": "staticwebassets\\js\\counter.js"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\jquery-3.3.1.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\jquery.magnific-popup.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\owl.carousel.js",
-      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
-    },
-    {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
-    },
-    {
-      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\theme-change.js",
-      "PackagePath": "staticwebassets\\js\\theme-change.js"
     },
     {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\lib\\bootstrap\\LICENSE",

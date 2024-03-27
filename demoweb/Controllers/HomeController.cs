@@ -13,6 +13,11 @@ public class HomeController : Controller
         _logger = logger;
     }
 
+    public IActionResult Index()
+    {
+        return View();
+    }
+
     public IActionResult Aboutus()
     {
         return View();
@@ -23,6 +28,10 @@ public class HomeController : Controller
         return View();
     }
     public IActionResult Login()
+    {
+        return View();
+    }
+    public IActionResult Register()
     {
         return View();
     }
