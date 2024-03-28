@@ -17,6 +17,11 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult Searchbar()
+    {
+        return View();
+    }
+
 
     public IActionResult Aboutus()
     {

@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\Fonts\\fontello.woff"
     },
     {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Images\\1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.jpg"
+    },
+    {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Images\\b2.jpg",
       "PackagePath": "staticwebassets\\Images\\b2.jpg"
     },
@@ -57,8 +61,20 @@
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\jquery.vide.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.vide.min.js"
     },
     {
       "Id": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\site.js",

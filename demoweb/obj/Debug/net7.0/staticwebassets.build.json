@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hT2yZRAtIcMGochCJVZ7hoiCMljjh6AtCeC0fnGLx0k=",
+  "Hash": "wK1J02KgXLsMKs9clxzEYFIFvtEZZxipZET/AeajXSA=",
   "Source": "demoweb",
   "BasePath": "_content/demoweb",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\css\\styles.css",
+      "SourceId": "demoweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\",
+      "BasePath": "_content/demoweb",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\favicon.ico",
@@ -272,6 +289,23 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\fontello.woff"
     },
     {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Images\\1.jpg",
+      "SourceId": "demoweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\",
+      "BasePath": "_content/demoweb",
+      "RelativePath": "Images/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\Images\\b2.jpg",
       "SourceId": "demoweb",
       "SourceType": "Discovered",
@@ -287,6 +321,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\b2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\jquery.vide.min.js",
+      "SourceId": "demoweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\",
+      "BasePath": "_content/demoweb",
+      "RelativePath": "js/jquery.vide.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery.vide.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\jquery-2.1.4.min.js",
+      "SourceId": "demoweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\",
+      "BasePath": "_content/demoweb",
+      "RelativePath": "js/jquery-2.1.4.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-2.1.4.min.js"
     },
     {
       "Identity": "C:\\Users\\KIRUTHIGACAD01\\Desktop\\cadbatch01\\dailytask\\demowebsite\\demoweb\\wwwroot\\js\\site.js",
