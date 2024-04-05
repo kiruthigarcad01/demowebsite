@@ -38,9 +38,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+            "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[5.2.0, )"
             }
           },
           "imports": [
